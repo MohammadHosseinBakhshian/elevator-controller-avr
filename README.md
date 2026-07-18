@@ -14,7 +14,7 @@ This project demonstrates the logic of a multi-state elevator system, including 
 - 🚦 Movement status indication
 - 🚪 Door state indication
 - 🎬 Animated demo included
-- 🧾 Organized repository structure
+
 
 ---
 
